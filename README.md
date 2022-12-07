@@ -5,4 +5,5 @@ Only included the kernel file as the rest are trivial in terms of functionailiti
 
 Multi-threaded algorithm at coomit : </br>
 77fa95b31a78f134b060749ca37307abbb9d7371</br>
-
+Deatiled Explanantion at: </br>
+https://sites.google.com/view/cpen331fall2022/assignments/assignment-3?authuser=0 </br>
